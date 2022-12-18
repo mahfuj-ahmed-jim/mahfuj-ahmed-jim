@@ -9,8 +9,20 @@ Something that I love about software development is the opportunity to work with
 
 Skills: Java / Dart / Kotlin / JS / Flutter / Postman / SQL
 
-- 🔭 I’m currently working on this page. 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mahfuj-ahmed-jim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ https://www.linkedin.com/in/mahfuj-ahmed-jim-108771204//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mahfuj.ahmed.jim.7712/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ https://wwhttps://www.instagram.com/mahfuj_ahmedjim/?fbclid=IwAR3zXA1KwrfnI301F0bGLxsrJT0PHeGmUeajwxHdBGLqlV5ysNGpCGTDUuUw.linkedin.com/in/mahfuj-ahmed-jim-108771204//)  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/mahfuj-ahmed-jim)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/mahfuj-ahmed-jim)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/mahfuj-ahmed-jim&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/mahfuj-ahmed-jim)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/mahfuj-ahmed-jim)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/mahfuj-ahmed-jim)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/mahfuj-ahmed-jim)  
