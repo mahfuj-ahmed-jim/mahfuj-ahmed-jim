@@ -1,6 +1,5 @@
-### Hi there 👋, 👨‍💻 Mahfuj Ahmed Jim
+### 👨‍💻 Mahfuj Ahmed Jim
 #### Software Developer
-![Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a software developer, specializing in the app development arena. For the last 3 years, I have been developing games using Java, Kotlin, and Dart programming languages.
 
