@@ -1,7 +1,7 @@
 ### 👨‍💻 Mahfuj Ahmed Jim
 #### Software Developer
 
-I am a software developer, specializing in the app development arena. For the last 3 years, I have been developing games using Java, Kotlin, and Dart programming languages.
+I am a software developer, specializing in the app development arena. For the last 3 years, I have been developing software using Java, Kotlin, and Dart programming languages.
 
 I’m currently working as a freelancer software developer. I’m hands-on in all stages of the software development cycle, from planning and design to testing and deployment. No two days are the same for me; my tasks may involve analyzing algorithms, altering code, fixing bugs, brainstorming ideas, or integrating new systems.
 
