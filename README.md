@@ -145,8 +145,9 @@ An application that tracks, manages, and splits bills among friends, housemates,
 - Monthly transaction tracking
 
 <br> 
+<br> 
 
-Explore more projects on my GitHub repositories.
+#### Explore more projects on my GitHub repositories.
 
 <br> 
 
