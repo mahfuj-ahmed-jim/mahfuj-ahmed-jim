@@ -1,26 +1,166 @@
-### 👨‍💻 Mahfuj Ahmed Jim
-#### Software Developer
+<img alt="Coder GIF" src="https://camo.githubusercontent.com/69a64c1db5c749cbf9b3cb40c1248ebdc6f6b7788b2d008506910a088af92ecd/68747470733a2f2f70726576696577732e31323372662e636f6d2f696d616765732f6b617270656e6b6f696c69612f6b617270656e6b6f696c6961313830362f6b617270656e6b6f696c69613138303630303031312f3130323938383830362d766563746f722d6c696e652d7765622d636f6e636570742d666f722d70726f6772616d6d696e672d6c696e6561722d7765622d62616e6e65722d666f722d636f64696e672d2e6a7067" style="max-width: 100%;" data-target="animated-image.originalImage">
 
-I am a software developer, specializing in the app development arena. For the last 3 years, I have been developing software using Java, Kotlin, and Dart programming languages.
+<h1>Hi there 👋, I'm <a href="https://github.com/mahfuj-ahmed-jim/mahfuj-ahmed-jim" target="blank">
+Mahfuj Ahmed Jim</a></h1>
 
-I’m currently working as a freelancer software developer. I’m hands-on in all stages of the software development cycle, from planning and design to testing and deployment. No two days are the same for me; my tasks may involve analyzing algorithms, altering code, fixing bugs, brainstorming ideas, or integrating new systems.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+My+GitHub+Profile..&hearts;++;Full+Stack+Developer,;Mobile+Application+Developer,;ComComputer+Science+and+Engineering+Graduate,;MERN+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
-Something that I love about software development is the opportunity to work with people from a wide range of disciplines. The software development lifecycle involves working with so many different people and departments and, as a people person and someone who loves to build new relationships, it’s great to be able to come together with other professionals who are striving towards the same goal.
+- 🔭 I’m currently working in <a href="https://bjitacademy.com/" target="blank">BJIT Academy</a> as Software Engineer (Trainee).
 
-Skills: Java / Dart / Kotlin / JS / Flutter / Postman / SQL
+- 🤝 I’m available for freelancing.
+
+- 🌱 I’m currently learning MERN Stack <a href="" target="blank">Youth Skill Development</a>
+
+- 💬 Ask me about **Reactjs, Node.js & Flutter**
+
+- 📫 How to reach me **mahfuj.jim2@gmail.com**
+
+- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+
+<br>
+
+## 👨🏽‍💻 What I'm currently up to
+I am currently serving as a Trainee Software Engineer, actively honing my skills in the MERN stack at BJIT Academy. My journey involves immersing myself in training sessions and practical projects to develop a robust foundation in web development. This role enables me to continuously learn and contribute to real-world projects, fostering both personal and professional growth.
+
+## 📚 What I'm currently exploring
+My learning journey currently centers around the practical implementation of Git and GitHub, fundamental tools for collaborative software development. Concurrently, I'm delving into the MERN technology stack – MongoDB, Express.js, React, and Node.js – a versatile set that empowers me to create end-to-end web applications.
+
+## 💬 Ask me about
+- <b>Topics:</b> SDLC, Software Development Methodologies, Scrum, Software Development Process, Git/GitHub/Gerrit, Mobile Application Development
+- <b>Technologies:</b> Java, Dart, Flutter, ReactJS, NodeJS, HTML, CSS, MySQL, mongoDB, Photoshop, Illustrator, Figma.
+
+## ⚡ Fun fact
+Beyond coding, I'm a culinary explorer and photography enthusiast. As a devoted foodie, I capture the essence of my gastronomic adventures through tantalizing food reels. Whether I'm savoring new flavors or framing exquisite dishes, my passion for creativity extends from code to cuisine.
 
 
+## 📫 How to reach me
+<p align="left">
+<a href="https://www.linkedin.com/in/mahfuj-ahmed-jim-108771204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahfuj-ahmed-jim" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mahfuj.ahmed.jim.7712/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahfuj-ahmed-jim" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mahfuj_ahmedjim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahfuj-ahmed-jim" height="30" width="40" /></a>
+<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mahfuj-ahmed-jim" height="30" width="40" /></a>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahfuj-ahmed-jim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahfuj-ahmed-jim-108771204//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mahfuj.ahmed.jim.7712)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mahfuj_ahmedjim/)  
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuj-ahmed-jim)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 Skills
+<p align="left"> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
+    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
+    target="_blank" rel="noreferrer"> <img
+      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
+      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
+      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
+  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+      alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
+      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
+      height="40" /> </a> </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfuj-ahmed-jim&show_icons=true&count_private=true)  
+<br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahfuj-ahmed-jim)  
+## 💻 Work Experience
+## Experience
 
-![GitHub metrics](https://metrics.lecoq.io/mahfuj-ahmed-jim)  
+### Accelerating Intelligence, Mobile App Developer
+*August 2021 - July 2022*
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mahfuj-ahmed-jim)  
+As a Mobile App Developer at Accelerating Intelligence, I led mobile development projects, collaborating with diverse teams to create impactful applications. Notably, I contributed significantly to "Daktar Lagbe," a pioneering telemedicine app. I skillfully utilized Android Studio, Java, Kotlin, Flutter, Retrofit, Dio, Room Database, Hive Database, and Firebase to bring projects to life while successfully managing remote work and studies.
 
-![Profile views](https://gpvc.arturio.dev/mahfuj-ahmed-jim)  
+#### Technologies Used
+- Android Studio
+- Java
+- Kotlin
+- Flutter
+- Retrofit
+- Dio
+- Room Database
+- Hive Database
+- Firebase
+
+Feel free to explore my GitHub repositories for more details on the projects I've worked on and the technologies I'm familiar with.
+
+<br>
+
+## 🎓 Education
+- National Ideal School, Secondary School Certificate, March, 2016.
+- National Ideal Collage, Higher Secondary School Certificate, May, 2018.
+- North South University, Computer Science and Engineering, December, 2022.
+
+<br>
+
+## 🏆 Achievements
+
+### Champion at Innovation Challenge Season 12
+- **Description:** Every semester, students participate in the Innovation Challenge, presenting their exceptional Capstone Projects. As a standout participant, I secured the championship, showcasing innovation and practical application in my project.
+
+### Champion at intra NSU ACM SC Hackathon (2022)
+- **Description:** During the intra NSU ACM SC Hackathon, I embarked on the fascinating journey of interpreting an esoteric programming language. Not only did I interpret this intricate language, but I also skillfully implemented a substantial portion of it. This achievement highlighted my ability to tackle complex coding challenges and bring unique concepts to life.
+
+### Top 100 Semifinalist in Dhaka Region BdApps National Hackathon 2022
+- **Description:** Secured a distinguished place among the Top 100 Semifinalists in the Dhaka Region BdApps National Hackathon 2022. Successfully presented an innovative idea to judges and peers, highlighting its strong technical foundation and compelling financial viability.
+
+<br>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=mahfuj-ahmed-jim&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuj-ahmed-jim&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mahfuj-ahmed-jim&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=mahfuj-ahmed-jim&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
