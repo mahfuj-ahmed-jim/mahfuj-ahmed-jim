@@ -122,6 +122,8 @@ Android Studio, Java, Kotlin, Flutter, Retrofit, Dio, Room Database, Hive Databa
 - **Description:** Secured a distinguished place among the Top 100 Semifinalists in the Dhaka Region BdApps National Hackathon 2022. Successfully presented an innovative idea to judges and peers, highlighting its strong technical foundation and compelling financial viability.
 
 <br>
+
+## 📈 GitHub Stats
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
