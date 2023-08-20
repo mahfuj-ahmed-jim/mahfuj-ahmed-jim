@@ -99,17 +99,7 @@ Beyond coding, I'm a culinary explorer and photography enthusiast. As a devoted 
 As a Mobile App Developer at Accelerating Intelligence, I led mobile development projects, collaborating with diverse teams to create impactful applications. Notably, I contributed significantly to "Daktar Lagbe," a pioneering telemedicine app. I skillfully utilized Android Studio, Java, Kotlin, Flutter, Retrofit, Dio, Room Database, Hive Database, and Firebase to bring projects to life while successfully managing remote work and studies.
 
 #### Technologies Used
-- Android Studio
-- Java
-- Kotlin
-- Flutter
-- Retrofit
-- Dio
-- Room Database
-- Hive Database
-- Firebase
-
-Feel free to explore my GitHub repositories for more details on the projects I've worked on and the technologies I'm familiar with.
+Android Studio, Java, Kotlin, Flutter, Retrofit, Dio, Room Database, Hive Database, Firebase
 
 <br>
 
