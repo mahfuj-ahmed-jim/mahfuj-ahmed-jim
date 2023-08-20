@@ -144,7 +144,7 @@ Android Studio, Java, Kotlin, Flutter, Retrofit, Dio, Room Database, Hive Databa
 </tr>
 </table>
 <!--- stats (end) -->
-
+<br>
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
