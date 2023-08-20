@@ -91,7 +91,6 @@ Beyond coding, I'm a culinary explorer and photography enthusiast. As a devoted 
 <br>
 
 ## 💻 Work Experience
-## Experience
 
 ### Accelerating Intelligence, Mobile App Developer
 *August 2021 - July 2022*
@@ -102,6 +101,54 @@ As a Mobile App Developer at Accelerating Intelligence, I led mobile development
 Android Studio, Java, Kotlin, Flutter, Retrofit, Dio, Room Database, Hive Database, Firebase
 
 <br>
+
+## 🌟 Project
+<h3 style="font-size: 30;">1. Khaben Naki</h3>
+
+<div style="display: flex;">
+  <img src="https://user-images.githubusercontent.com/76824955/208396559-9054c9a9-6bbb-406e-85ec-1b6bd2ed2b78.jpg" alt="Screenshot 1" height="350px" style="margin-right: 20px;">
+  <img src="https://user-images.githubusercontent.com/76824955/208396570-b9c563f8-e5a4-4f97-a01b-1103d953982c.jpg" alt="Screenshot 2" height="350px" style="margin-right: 20px;">
+  <img src="https://user-images.githubusercontent.com/76824955/208396574-8c04da34-bff2-4895-be87-290a5378daf4.jpg" alt="Screenshot 3" height="350px" style="margin-right: 20px;">
+  <img src="https://user-images.githubusercontent.com/76824955/208396581-df7ff8be-878f-4059-865a-c72f1f8923a2.jpg" alt="Screenshot 4" height="350px">
+</div>
+
+<br>
+
+🍔 An innovative online food ordering platform connecting users with nearby restaurants. Comprising four components:
+
+- **Foodies App:** Order food, review items/restaurants/delivery personnel, and track orders in real-time.
+- **Riders App:** Enable efficient delivery by seamless order handling.
+- **Restaurant Website:** Empower restaurant owners to manage orders, sales, and showcase offerings.
+- **Admin Dashboard:** Oversee system, orders, and monitor restaurant performance.
+
+**Key Features:**
+Seamless food ordering, Reviews for items/restaurants/delivery personnel, Live order tracking, Restaurant/food search, Order history, Real-time sales tracking for restaurant owners
+
+<br> 
+
+<h3 style="font-size: 30px;">2. Bill Splitter</h3>
+
+<div style="display: flex;">
+  <img src="https://user-images.githubusercontent.com/76824955/208351593-3ae8f996-42e3-4413-8e0b-690e582559d2.png" alt="Bill Splitter Screenshot 1" height="350px" style="margin-right: 20px;">
+  <img src="https://user-images.githubusercontent.com/76824955/208351595-b2dd5576-f0c4-4d8d-86b9-30f38d126424.png" alt="Bill Splitter Screenshot 2" height="350px" style="margin-right: 20px;">
+  <img src="https://user-images.githubusercontent.com/76824955/208351597-b21c2362-2732-49de-90b6-cbab68c04117.png" alt="Bill Splitter Screenshot 3" height="350px" style="margin-right: 20px;">
+  <img src="https://user-images.githubusercontent.com/76824955/208351600-3e109bfe-f50e-4372-8ff9-e2902fcca8dd.png" alt="Bill Splitter Screenshot 4" height="350px">
+</div>
+
+<br> 
+
+An application that tracks, manages, and splits bills among friends, housemates, and groups. Features include:
+
+- Split total bill among a group or two people
+- History of bills with details
+- Due payment reminders
+- Monthly transaction tracking
+
+<br> 
+
+Explore more projects on my GitHub repositories.
+
+<br> 
 
 ## 🎓 Education
 - National Ideal School, Secondary School Certificate, March, 2016.
