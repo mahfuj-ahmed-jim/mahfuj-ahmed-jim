@@ -4,7 +4,7 @@
 Mahfuj Ahmed Jim</a></h1>
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+My+GitHub+Profile..&hearts;++;Full+Stack+Developer,;Mobile+Application+Developer,;ComComputer+Science+and+Engineering+Graduate,;MERN+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+My+GitHub+Profile..&hearts;++;Full+Stack+Developer,;Mobile+Application+Developer,;Computer+Science+and+Engineering+Graduate,;MERN+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 - 🔭 I’m currently working in <a href="https://bjitacademy.com/" target="blank">BJIT Academy</a> as Software Engineer (Trainee).
@@ -91,6 +91,16 @@ Beyond coding, I'm a culinary explorer and photography enthusiast. As a devoted 
 <br>
 
 ## 💻 Work Experience
+
+### BJIT Academy, Trainee Software Engineer
+*August 2023 - Present*
+
+Currently training as a Full Stack Developer at BJIT Academy. Eager to expand MERN Stack expertise by applying tools to tackle tasks effectively and gain hands-on experience. Focused on continuous learning and skill enhancement.
+
+#### Technologies Used
+Html, CSS, JavaScript,  MongoDB, Express.js, React, and Node.js.
+
+<br>
 
 ### Accelerating Intelligence, Mobile App Developer
 *August 2021 - July 2022*
