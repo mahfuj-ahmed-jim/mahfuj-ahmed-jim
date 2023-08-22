@@ -4,7 +4,7 @@
 Mahfuj Ahmed Jim</a></h1>
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+My+GitHub+Profile..&hearts;++;Full+Stack+Developer,;Mobile+Application+Developer,;Computer+Science+and+Engineering+Graduate,;MERN+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+My+GitHub+Profile..&hearts;++;Full+Stack+Developer,;Mobile+Application+Developer,;MERN+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <br>
@@ -86,6 +86,13 @@ Beyond coding, I'm a culinary explorer and photography enthusiast. As a devoted 
 Training as a Full Stack Developer at BJIT Academy. Eager to expand MERN Stack expertise by applying tools to tackle tasks effectively and gain hands-on experience. Focused on continuous learning and skill enhancement. 🚀
 
 **Technologies Used:** HTML, CSS, JavaScript, MongoDB, Express.js, React, Node.js.
+
+### 📱 Daktar Lagbe, Software Engineer
+*August 2022 - March 2023*
+
+Contributed as a Software Engineer at Daktar Lagbe, a pioneering Bangladeshi telemedicine company. Played a vital role in building and maintaining the mobile application, ensuring seamless healthcare access for users. Collaborated with a dynamic team to deliver impactful solutions. 💼
+
+**Technologies Used:** Flutter, Dart, Node.js, API integration.
 
 ### 📱 Accelerating Intelligence, Mobile App Developer
 *August 2021 - July 2022*
