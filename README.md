@@ -80,7 +80,7 @@ Beyond coding, I'm a culinary explorer and photography enthusiast. As a devoted 
 
 ## 💻 Work Experience
 
-### 👨‍💻 BJIT Academy, Trainee Software Engineer
+### 👨‍💻 BJIT Academy, Software Engineer
 *August 2023 - Present*
 
 Training as a Full Stack Developer at BJIT Academy. Eager to expand MERN Stack expertise by applying tools to tackle tasks effectively and gain hands-on experience. Focused on continuous learning and skill enhancement. 🚀
