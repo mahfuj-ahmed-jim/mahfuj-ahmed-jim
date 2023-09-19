@@ -87,20 +87,6 @@ Training as a Full Stack Developer at BJIT Academy. Eager to expand MERN Stack e
 
 **Technologies Used:** HTML, CSS, JavaScript, MongoDB, Express.js, React, Node.js.
 
-### 💻 Systech Datasoft, Software Engineer (Flutter)
-*April 2023 - July 2023*
-
-Contributed as a Software Engineer (Flutter) at Systech Datasoft, focusing on building robust and dynamic Flutter applications. Played a key role in developing cutting-edge mobile solutions and contributing to the advancement of technology. 🚀
-
-**Technologies Used:** Flutter, Dart, Firebase integration.
-
-### 📱 Daktar Lagbe, Software Engineer
-*August 2022 - March 2023*
-
-Contributed as a Software Engineer at Daktar Lagbe, a pioneering Bangladeshi telemedicine company. Played a vital role in building and maintaining the mobile application, ensuring seamless healthcare access for users. Collaborated with a dynamic team to deliver impactful solutions. 💼
-
-**Technologies Used:** Flutter, Dart, Node.js, API integration.
-
 ### 📱 Accelerating Intelligence, Mobile App Developer
 *August 2021 - July 2022*
 
