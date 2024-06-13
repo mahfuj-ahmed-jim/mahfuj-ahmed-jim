@@ -10,14 +10,14 @@ Mahfuj Ahmed Jim</a></h1>
 <br>
 
 ## 👨🏽‍💻 What I'm currently up to
-I am currently serving as a Trainee Software Engineer, actively honing my skills in the MERN stack at BJIT Academy. My journey involves immersing myself in training sessions and practical projects to develop a robust foundation in web development. This role enables me to continuously learn and contribute to real-world projects, fostering both personal and professional growth.
+Full-fledged Software Engineer at BJIT! ‍ Still rocking the MERN stack ( MERN!), and I've even added Next.js to the mix for a smoother development flow ️. But my learning journey doesn't stop there! In my free time, I'm a curious explorer venturing into the worlds of Java Spring Boot for backend development ⚙️, Flutter for creating mobile apps , and even Docker and AWS to play with containerization and cloud services ☁️.
 
 ## 📚 What I'm currently exploring
-My learning journey currently centers around the practical implementation of Git and GitHub, fundamental tools for collaborative software development. Concurrently, I'm delving into the MERN technology stack – MongoDB, Express.js, React, and Node.js – a versatile set that empowers me to create end-to-end web applications.
+I'm currently exploring  technologies like Socket.io for real-time communication ⚡, microservices for scalable architecture ️, GraphQL for efficient APIs , and PostgreSQL for robust database management ️.
 
 ## 💬 Ask me about
 - <b>Topics:</b> SDLC, Software Development Methodologies, Scrum, Software Development Process, Git/GitHub/Gerrit, Mobile Application Development
-- <b>Technologies:</b> Java, Dart, Flutter, ReactJS, NodeJS, HTML, CSS, MySQL, mongoDB, Photoshop, Illustrator, Figma.
+- <b>Technologies:</b> Java, Dart, Android Development, Flutter, ReactJS, NextJs, NodeJS, HTML, CSS, MySQL, mongoDB, Photoshop, Illustrator, Figma.
 
 ## ⚡ Fun fact
 Beyond coding, I'm a culinary explorer and photography enthusiast. As a devoted foodie, I capture the essence of my gastronomic adventures through tantalizing food reels. Whether I'm savoring new flavors or framing exquisite dishes, my passion for creativity extends from code to cuisine.
@@ -80,17 +80,31 @@ Beyond coding, I'm a culinary explorer and photography enthusiast. As a devoted 
 
 ## 💻 Work Experience
 
-### 👨‍💻 BJIT Academy, Trainee Software Engineer
+### BJIT Limited, Software Engineer
 *August 2023 - Present*
 
-Training as a Full Stack Developer at BJIT Academy. Eager to expand MERN Stack expertise by applying tools to tackle tasks effectively and gain hands-on experience. Focused on continuous learning and skill enhancement. 🚀
+Develop and sustain essential Frontend and Backend elements for robust systems, across the whole product. Work closely with cross-functional teams, including developers, designers, and product managers, to implement and advocate.
 
-**Technologies Used:** HTML, CSS, JavaScript, MongoDB, Express.js, React, Node.js.
+**Technologies Used:** HTML, CSS, JavaScript, Typescript, MongoDB, Express.js, React, Node.js.
+
+### Systech Datasoft, Software Engineer
+*March 2023 - July 2023*
+
+Key team member at Systech Datasoft, specializing in Flutter UI design for Vehicle Tracking System app. Facilitate integration, promote UI/UX best practices, and provide training for new engineers.
+
+**Technologies Used:** Flutter, Riverpood, Hive, Dio.
+
+### Flutter Developer, Daktar Lagbe
+*September 2022 - February, 2023*
+
+Led Flutter-based mobile app development at Daktar Lagbe, overseeing strategy, implementation, and integration. Provided leadership, fostering innovation and excellence in healthcare technology.
+
+**Technologies Used:** Flutter, Bloc, Hive, Dio.
 
 ### 📱 Accelerating Intelligence, Mobile App Developer
-*August 2021 - July 2022*
+*November 2020 - August 2022*
 
-As a Mobile App Developer at Accelerating Intelligence, led impactful projects including the "Daktar Lagbe" telemedicine app. Utilized Android Studio, Java, Kotlin, Flutter, Firebase to bring projects to life while managing remote work and studies. 📊
+Led Mobile App Department, overseeing project deliveries, managing development, UI/UX design, and project planning. Multifaceted role contributed to project success and innovation.
 
 **Technologies Used:** Android Studio, Java, Kotlin, Flutter, Retrofit, Dio, Room Database, Hive Database, Firebase.
 
